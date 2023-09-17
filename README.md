@@ -1,6 +1,6 @@
 # NLW-IA
 
-## Descrição do Projeto
+## 1 Descrição do Projeto
 
 **NLW-IA** é um projeto de IA criado com *React* e *Node.js* projetado para gerar títulos e descrições criativas para conteúdos do YouTube.
 
